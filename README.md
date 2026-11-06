@@ -1,5 +1,7 @@
 # dsh-pet 🐾
 
+> **РU:** полная русификация при языке Harness `ru` — см. **[README.ru.md](README.ru.md)** (форк [dinjak/dsh-pet](https://github.com/dinjak/dsh-pet), upstream [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet)).
+
 <p align="center">
   <a href="https://www.npmjs.com/package/dsh-pet"><img alt="npm version" src="https://img.shields.io/npm/v/dsh-pet?label=npm&color=blue"></a>
   <a href="https://www.npmjs.com/package/dsh-pet"><img alt="npm monthly downloads" src="https://img.shields.io/npm/dm/dsh-pet?label=%E6%9C%88%E4%B8%8B%E8%BD%BD&color=brightgreen"></a>
